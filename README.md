@@ -18,4 +18,4 @@ I employed hyperparameter techniques such as GridSearch to test various combinat
 I used primarily mean squared error to determine the accuracy of my models. 
 
 ## Conclusion
-I determined that of the three models I tested, random forest created the highest-performing model. Additionally, I discovered that the model performed the best when it had the most freedom, such as having no maximum depth and a minimum samples per leaf of one. From the initial model configuration I tested, I was able to lower the mean squared error from 222 to aout 85, which is a 62% decrease. 
+I determined that of the three models I tested, random forest created the highest-performing model. Additionally, I discovered that the model performed the best when it had the most freedom, such as having no maximum depth and a minimum samples per leaf of one. From the initial model configuration I tested, I was able to lower the mean squared error from 222 to about 85, which is a 62% decrease. 
